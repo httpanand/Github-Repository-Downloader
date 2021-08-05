@@ -1,2 +1,2 @@
 # Github-Repository-Downloader
-Web Automation with [Selenium](https://pypi.org/project/selenium/)
+## Install [Selenium](https://pypi.org/project/selenium/) Then input the repository link in code. 
